@@ -2,11 +2,15 @@
 
 ###
 
-<p align="left">I'm a former civil engineer turned full-stack developer, blending problem-solving skills from the physical world with the logic and creativity of software development. My journey from designing bridges to building web applications has been driven by a passion for efficiency, scalability, and clean code.</p>
+<p align="left">With a background in civil engineering, I made the switch to full-stack development, drawn to the creativity and logic of coding. I’m learning and growing, and I love the challenge of building things that are both functional and efficient. Problem-solving has always been a big part of my work, and now I get to apply that mindset to software—breaking down complex ideas, troubleshooting issues, and continuously improving my skills. It's a new field for me, but one that I’m excited to keep exploring.</p>
 
 ###
 
-<p align="left">🚀 Currently working on: <br>📚 Currently learning: <br>💬 Ask me about: <br>⚽ Hobbies:</p>
+<p align="left">🚀 Currently working on: Building my skills as a full-stack developer and working on personal projects to improve my coding.
+  <br>📚 Currently learning: JavaScript & Java.
+  <br>💬 Ask me about: My transition from civil engineering to software development, problem-solving approaches, or what it's like to start coding from scratch.
+  <br>⚽ Hobbies: Gaming, Watching Football, Going on walks while listening to audiobooks.
+</p>
 
 ###
 
@@ -58,9 +62,9 @@
 ###
 
 <h2 align="left">🎯 2025 Goals</h2>
-
-###
-
-<p align="left">Goals</p>
+<p align="left"> 1. Build and deploy a full-stack project
+  <br>2. Master JavaScript and Java
+  <br>3. Get comfortable with algorithms & data structures
+</p>
 
 ###
