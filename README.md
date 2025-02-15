@@ -9,7 +9,7 @@
 <p align="left">🚀 Currently working on: Building my skills as a full-stack developer and working on personal projects to improve my coding.
   <br>📚 Currently learning: JavaScript & Java.
   <br>💬 Ask me about: My transition from civil engineering to software development, problem-solving approaches, or what it's like to start coding from scratch.
-  <br>⚽ Hobbies: Gaming, Watching Football, Going on walks while listening to audiobooks.
+  <br>⚽ Hobbies: Gaming, Watching Football, Watching 👻 Horror movies.
 </p>
 
 ###
