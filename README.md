@@ -62,9 +62,9 @@
 ###
 
 <h2 align="left">🎯 2025 Goals</h2>
-<p align="left"> 1. Build and deploy a full-stack project
-  <br>2. Master JavaScript and Java
-  <br>3. Get comfortable with algorithms & data structures
+<p align="left"> 1. Build a solid understanding of JavaScript and Java, focusing on core concepts and practical application. 
+  <br>2. Strengthen my understanding of algorithms and data structures by completing at least 50 coding challenges (using LeetCode and Codewars), implementing key concepts in small projects."
+  <br>3. By the end of 2025, design, build, and deploy a full-stack web application using JavaScript/TypeScript for the front end and Java for the back end. I will start with smaller projects, then gradually integrate authentication, a database, and hosting on a platform.
 </p>
 
 ###
