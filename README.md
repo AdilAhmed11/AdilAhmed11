@@ -19,27 +19,65 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+
+ <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+
+ <img width="12" />
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
+
 </div>
 
 ###
