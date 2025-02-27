@@ -100,9 +100,9 @@
 ###
 
 <h2 align="left">🎯 2025 Goals</h2>
-<p align="left"> 1. Build and deploy two portfolio projects—a frontend project using JavaScript/TypeScript and a full-stack project with a Java + SQL backend—by December 2025.
-  <br>2. Learn and apply React by completing a structured course and integrating it into at least one portfolio project by June 2025.
-  <br>3. Solve 50 data structures and algorithms problems in JavaScript and Java by December 2025 to improve problem-solving skills.
+<p align="left"> 1. Strengthen Java and JavaScript/TypeScript skills by solving at least 100 coding challenges (50 in Java, 50 in JS/TS) on platforms like LeetCode and CodeWars by December 2025.
+  <br>2. Build and deploy two portfolio projects—one focusing on JavaScript/TypeScript and another as a full-stack Java project with Spring Boot and SQL.
+  <br>3. Deepen backend and database knowledge by completing freeCodeCamp’s SQL & Backend Development course and applying concepts in real-world projects by December 2025.
 </p>
 
 ###
